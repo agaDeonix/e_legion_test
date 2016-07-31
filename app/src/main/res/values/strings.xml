@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">ELegionTest</string>
+    <string name="title_cities">Города</string>
+    <string name="refresh">Обновить</string>
+    <string name="add_city">Добавить город</string>
+    <string name="not_loading">не загружено</string>
+    <string name="find_city">Поиск города</string>
+    <string name="enter_city_name">Введите название города</string>
+    <string name="delete_question">Удалить выбранные город</string>
+    <string name="yes">Да</string>
+    <string name="no">Нет</string>
+    <string name="temp_min">Мин. темп.:</string>
+    <string name="temp_max">Макс. темп.:</string>
+    <string name="pressure">Давление:</string>
+    <string name="humidity">Влажность:</string>
+    <string name="wind">Ветер</string>
+    <string name="wind_speed">Скорость:</string>
+    <string name="wind_deg">Направление:</string>
+    <string name="unknow">Неизвестно</string>
+    <string name="pressure_postfix">мм р.ст.</string>
+    <string name="wind_speed_postfix">м/с</string>
+
+    <string name="city_is_deleted">Город удален</string>
+    <string name="city_is_restored">Город востановлен</string>
+
+    <string name="undo">Отмена</string>
+    <string name="close">Закрыть</string>
+
+
+
+    <string name="wind_n">Север</string>
+    <string name="wind_nne">Северо-северо-восток</string>
+    <string name="wind_ne">Северо-восток</string>
+    <string name="wind_ene">Востоко-северо-восток</string>
+    <string name="wind_e">Восток</string>
+    <string name="wind_ese">Востоко-юго-восток</string>
+    <string name="wind_se">Юго-восток</string>
+    <string name="wind_sse">Юго-юго-восток</string>
+    <string name="wind_s">Юг</string>
+    <string name="wind_ssw">Юго-юго-запад</string>
+    <string name="wind_sw">Юго-запад</string>
+    <string name="wind_wsw">Западо-юго-запад</string>
+    <string name="wind_w">Запад</string>
+    <string name="wind_wnw">Западо-северо-запад</string>
+    <string name="wind_nw">Северо-запад</string>
+    <string name="wind_nnw">Северо-северо-запад</string>
+
+</resources>
