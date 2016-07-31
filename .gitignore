@@ -6,3 +6,5 @@
 .DS_Store
 /build
 /captures
+rsa_github
+rsa_github.pub
