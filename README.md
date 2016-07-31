@@ -1,1 +1,1 @@
-# e_legion_test
+# Тестовое задание для android школы в Казани http://www.e-legion.ru/lp/android
